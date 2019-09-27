@@ -1,5 +1,24 @@
 == The Life and Letters of John Fothergill
 
+I was born in Wensleydale, in Yorkshire, +++[+++in the year]
+1676, of parents not only convinced of the blessed gospel dispensation of God to mankind,
+in sending the Spirit of Christ to enlighten and reprove for sin,
+and to lead the believers in it into truth and righteousness,
+as testified unto by the people called Quakers; but also,
+who endeavoured carefully to feel after, and live up to the powerful principle of truth,
+whereby they were both instructed and enabled to be exemplary in life,
+and in religious concern to attend meetings for the worship of God;
+and in an humble, steady,
+diligent waiting upon him for the appearance of his enlivening presence and power,
+to enable them to worship acceptably.
+This also led them into a godly care to train up their children in the fear of the Lord,
+and to take them to religious meetings frequently,
+both on first-days and other days of the week, which they seldom failed in attending;
+especially my mother, whose care herein, and her spiritual,
+reverent travail of soul in meetings, often in silence,
+for the sacrifice of a broken heart to be prepared in her by the Lord,
+had very early a deeply affecting impression in my consideration.
+
 I was convinced fully, when very young, both of the existence of an Almighty, holy,
 all knowing Being; and that there is a part in man that is immortal;
 and from hence arose a fear to offend him in word or deed.
@@ -108,14 +127,14 @@ accompanied with glimpses of heavenly goodness,
 which graciously helped to stay me in some patient hope under the heavenly refining hand,
 which sometimes, as it were set me upon my feet a little, and withdrew again,
 I was left in a sense of weakness, fear and sorrow.
-But the blessed presence of of the Saviour of the world,
+But the blessed presence of the Saviour of the world,
 which at times filled and overshadowed my soul, in my thus following him,
 though mourning, is never to be forgotten by my soul:
 this was about the seventeenth year of my age.
 
 But I am not easy to proceed much further in this account,
 without making mention of some few cases respecting my younger time;
-and though they may seem little in some readers thoughts,
+and though they may seem little in some readers`' thoughts,
 yet I cannot but think they may be of service to others,
 and at least stand as a testimony to the purity and spirituality of
 the blessed and glorious gospel dispensation of God,
@@ -338,7 +357,7 @@ which again increased my exercise in divers respects;
 but as I endeavoured to seek the favour and counsel of the most High God,
 he was pleased to remember me with merciful help many ways,
 I believe he opened my way to have less temporal business,
-which Was not only some ease to my mind, but more safe in several respects,
+which was not only some ease to my mind, but more safe in several respects,
 it giving opportunity for more undisturbed retirement of mind,
 to feel after the salvation of God.
 
@@ -581,7 +600,7 @@ effect that my labour had upon the better-minded,
 the younger especially, and which was not forgotten by many while they lived;
 and likewise the terrible and awakening calls to some bold libertines,
 and those who were sitting down in the deadness of formality.
-Though this labour was like a fire to the house of Esau, and therefore unpleasant some;
+Though this labour was like a fire to the house of Esau, and therefore unpleasant to some;
 yet the inward and living among the people were relieved and made glad in the Lord,
 whose favour and peace often filled my heart with awful reverence towards him,
 with strong desires purely to know, and be helped to do his will faithfully.
@@ -746,7 +765,7 @@ which alone can sufficiently qualify for real service,
 and preserve in the way and work of the Lord.
 
 I then visited the meetings of Friends through
-the other pans of the nation with diligence;
+the other parts of the nation with diligence;
 but forgetting natural ability too much,
 I fell into a dangerous illness from a violent cold,
 which forced me to stop about ten days at Mountmellick.
@@ -856,7 +875,7 @@ and so northward to New England,
 we crossed Chesapeak bay and had some meetings
 with Friends on the eastern shore of Maryland,
 and so into the lower counties of Pennsylvania.
-We got to Philadelphia before the Yearly Meeting there,
+We got to Philadelphia before the yearly meeting there,
 which was large and comfortable to us and Friends,
 by the gracious and powerful influence of the love of God,
 whose glorious name was worshipped and praised for his mercy and salvation.
@@ -980,9 +999,9 @@ nor could he find them in his book, which he turned over carefully,
 but met with nothing to his purpose; whilst the people who were there,
 seemed pleased to see him so fast, and in a manner confounded.
 Then another justice of the peace came in.
-The first being behind a table, stood up and said, come Mr. Wheeler, please to come here,
-this is a part of your business.
-To which he replied sternly, I know not that it is, or yours either;
+The first being behind a table, stood up and said, "`come Mr. Wheeler, please to come here,
+this is a part of your business.`"
+To which he replied sternly, "`I know not that it is, or yours either;`"
 and so they fell to argue the case one with another with some heat,
 we standing still with an innocent cheerfulness;
 for the love and presence of Christ was measurably with us,
@@ -990,10 +1009,10 @@ and much beyond our expectation comforted us.
 The people were pleased to see the poor, dark, envious man, who gave us this trouble,
 confounded.
 Then the other justice who came in, said,
-I have been at our own meeting three sabbath days one after another,
+"`I have been at our own meeting three sabbath days one after another,
 and did not hear Christ named from the pulpit;
 and I confess I was at the meeting with these people yesternight,
-and heard Christ preached truly.
+and heard Christ preached truly.`"
 A pretty deal more passed betwixt the justices,
 and some of the other people began to show their
 dislike of him and his proceedings with us,
@@ -1053,7 +1072,7 @@ On which expression he began to observe,
 that he supposed they did not understand the love of
 God to be universal in the manner that we did.
 I returned,
-That seeing the Scripture is positive that Christ our
+"`That seeing the Scripture is positive that Christ our
 Saviour gave himself a ransom for all men,
 and by the grace of God tasted death for every man;
 and that he became a propitiation not only for their sins (viz. the
@@ -1061,7 +1080,7 @@ believers at that time) but for the sins of the whole world;
 and also, that he spiritually enlightened every man coming into the world;
 that a manifestation of the Spirit was given to every man to profit withal,
 and that the grace of God which bringeth salvation, hath appeared to all men,
-from hence we have good reason to believe the love of God in Christ to be universal;
+from hence we have good reason to believe the love of God in Christ to be universal;`"
 and desired him if he thought fit, and could, to show from Scripture to the contrary.
 He answered, they understood that salvation was extended to mankind,
 as the Gospel was outwardly preached;
@@ -1246,11 +1265,11 @@ then almost all running to look at the land, I walked upon the forecastle,
 and looking into the sea, saw a rock a-head of us, not above six feet under water;
 of which I gave notice to the master, who immediately saw it,
 and called out to the man at the helm, with the most lamentable cry I ever heard,
-helm a-lee, helm a-lee, for God`'s sake, or we every man of us perish.
+"`Helm a-lee, helm a-lee, for God`'s sake, or we every man of us perish.`"
 This he quickly did, and so the ship steered by it,
 but within half the length of the vessel.
 A dark fog with drizzling rain had occasioned the master`'s mistake;
-it cleared up a little before this clanger occurred, and enabled us to discover it,
+it cleared up a little before this danger occurred, and enabled us to discover it,
 but it soon returned again thicker than before.
 We got a good way up the channel, but our wind failing us, we dropped anchor,
 and early next morning got into the port of Minehead,
@@ -1299,7 +1318,11 @@ reserving to the conclusion some pathetical exhortations,
 which though written very early, may be till then postponed,
 without prejudice to order or utility.]
 
-To Friends of the Monthly Meeting of Richmond in Yorkshire^
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To Friends of the monthly Meeting of Richmond in Yorkshire^
 footnote:[In a private letter to a Friend, to whom this epistle was sent, he writes thus:
 "`I have been under a concern of spirit on behalf of the monthly meeting of Richmond,
 and all its members, and through secretly seeking to the Lord,
@@ -1309,6 +1332,7 @@ I would have it solidly read both to the men and women:
 and also copies of it sent and read in the particular meetings, for stirring up of all;
 or however that I may be so far cleared.`"]
 
+[.salutation]
 Dear Friends,
 
 In the bowings of living virtue, my spirit doth freely reach towards you,
@@ -1454,7 +1478,7 @@ and whoever loseth this true thirst after life, humbling, bowing life,
 they lose the access to God, and that wherein alone is acceptance with the Father.
 It is the life that is the light; it is the life that is our only strength,
 and the alone sanctuary and place of safety in all besetments.
-And though it may sometimes seem as`' if it were sealed up,
+And though it may sometimes seem as if it were sealed up,
 and the heavens may appear like brass, yet the truly thirsty soul,
 that retains its earnest travail, and cries after the enjoyment of life,
 will never be tried beyond what it will be helped to endure,
@@ -1465,15 +1489,21 @@ I commit you all with my own soul: and in the sense of his uniting heart-tenderi
 I bid you farewell, and remain your near friend according to my measure,
 who earnestly seek the good of all people.
 
+[.signed-section-signature]
 John Fothergill
 
+[.signed-section-context-close]
 Cliffs, in Maryland in America, the 17th of the Sixth month, 1705.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Friends in Rhode Island and New England.
 
+[.salutation]
 Dearly beloved friends!
 
 In the love of our heavenly Father, whereby through his Son the Lord Jesus Christ,
@@ -1510,7 +1540,7 @@ your offspring especially, if such you have.
 Endeavour not to be behind in due labour, not only in living zeal to advise,
 but to restrain from what you see,
 or may have seen to be inconsistent with the mind of Truth, and pernicious to them,
-in respect to their souls happiness.
+in respect to their souls`' happiness.
 In the next place,
 relating to the churches in the respective places where your lots may be cast;
 having especial care that those who come among you, and are reputed to be of you,
@@ -1850,8 +1880,10 @@ I remain your friend in the Truth and a travailer for
 Zion`'s prosperity and Jerusalem`'s peace,
 and that her glory may shine forth to the ends of the earth.
 
+[.signed-section-signature]
 John Fothergill
 
+[.signed-section-context-close]
 Antigua, the 1st of the Ninth month, 1707.
 
 +++[+++Not long after he returned from this his first visit to America,
@@ -1867,7 +1899,7 @@ when he found himself engaged in spirit to visit
 Friends in the south-west parts of England,
 of which journey the following short account is preserved.]
 
-[.asterism]
+[.small-break]
 '''
 
 The 12th of the seventh month, 1709, I set forward on my journey,
@@ -1892,7 +1924,7 @@ and so to Nailsworth, and had a large meeting,
 in which the love of God engaged us in a deep labour,
 and supplied with strength to discharge our spirits, though in a rousing, shaking manner,
 and Truth prevailed much to our comfort,
-and to the help of the faithful.`' From hence we went to Thornbury,
+and to the help of the faithful. From hence we went to Thornbury,
 where we had a seasonable opportunity in the meeting there; and so to Bristol,
 and were at both their meetings on the 25th, being first-day;
 wherein Truth owned us freely, both in giving its testimony forth,
@@ -1905,7 +1937,7 @@ From hence we went to Glastonbury, where we had a meeting,
 attended with some heavy labour in the extendings of the love
 of Truth in order to stir up some dull-spirited professors,
 as well as to strengthen the faithful; and so to Grinton,
-where we bad a pretty edifying season with Friends in their '` meeting;
+where we bad a pretty edifying season with Friends in their meeting;
 and also the next day at Long Sutton, which Truth owned with its presence,
 much to ours and Friends comfort.
 
@@ -1922,7 +1954,7 @@ and the power and testimony of Truth was exalted.
 We had also a meeting at Minehead, where there was a marriage,
 and the testimony of Truth went freely forth amongst the people,
 there being of divers professions, and our spirits were comforted with Friends.
-We then went to the Quarterly meeting for Devonshire at Collumpton,
+We then went to the quarterly meeting for Devonshire at Collumpton,
 which began that day for worship, and was solidly comfortable.
 The next day was their meeting for business, and a seasonable edifying time.
 From hence we went to a meeting at Spiceland, where Truth accompanied us mercifully,
@@ -1997,7 +2029,7 @@ in the consideration of the Lord`'s providence to us,
 and in a sense of his great and unspeakable goodness,
 in affording us his blessed presence, both abroad and at home.
 
-[.asterism]
+[.small-break]
 '''
 
 +++[+++From the time of his returning from this visit in 1709,
@@ -2008,8 +2040,8 @@ It seems most probable that he was now at liberty to
 discharge the necessary care over an increasing family.
 In this interval, however,
 he visited Friends in several of the neighboring counties frequently,
-attended the Quarterly meetings at York pretty constantly,
-and the Yearly meetings at London, as he found himself engaged for that service.
+attended the quarterly meetings at York pretty constantly,
+and the yearly meetings at London, as he found himself engaged for that service.
 For though few were more diligent in business,
 more carefully affectionate to every part of his family, or loved more to be at home;
 yet whenever he perceived it was his duty to leave them,
@@ -2044,6 +2076,9 @@ hath already been published in the Dying Sayings of Friends,^
 footnote:[Piety Promoted, Part VI., page 90.]
 yet we think it may not be without its use to insert it in this place, viz:]
 
+[.embedded-content-document.testimony]
+--
+
 Margaret Fothergill, late wife of John Fothergill in Wensleydale, Yorkshire,
 was carefully educated, when a child, by her parents, among the people called Quakers;
 and while she was but very young, did not only delight to go to Friends`' meetings,
@@ -2053,7 +2088,7 @@ and be made a partaker of his quickening power and virtue in her own soul.
 This concern the Lord was pleased to regard,
 and graciously came in upon her heart by his power and love,
 and thereby helped her to draw near him, and worship him knowingly,
-white she was but very young.
+while she was but very young.
 And as she grew up, she continued to delight in waiting upon God,
 and feeling after his goodness secretly, through the pure influence whereof,
 she came to be clothed with a meek and quiet spirit,
@@ -2082,7 +2117,7 @@ and sometimes being very tender and weakly as to her constitution of body;
 yet would she often express her care,
 that the affairs of Truth in those meetings might be managed
 with suitable zeal and care for the glory of God;
-sometimes saying, She could be glad,
+sometimes saying, she could be glad,
 and was not without hopes of living to be a
 little more at liberty to attend those services,
 and to discharge herself more fully among Friends for righteousness sake.
@@ -2096,7 +2131,7 @@ And the third day, after she discovered her apprehensions of being taken away,
 in these words:
 "`I wonder that I cannot be troubled that I am like to leave my little ones,
 and my dear husband?`"
-which expressions nearly affecting her husband; she added, "`they,
+which expressions nearly affecting her husband; she added, "`They,
 (meaning her children) will be cared for; and thou, (meaning her husband) will be helped;
 and there is a place prepared for me.`"
 She afterwards continued in a steady expectation of being taken away,
@@ -2122,7 +2157,7 @@ she sang praises and hallelujahs to the Lord God and the Lamb her Saviour,
 for his loving kindnesses and goodness to her in many respects till that very time.
 
 Another time, one coming in to see her,
-of whom she quickly took notice she called her by name and charged
+of whom she quickly took notice, she called her by name and charged
 her to be careful about going to meetings among the Lord`'s people;
 and that she did not go in a careless and unconcerned mind,
 but sit down at his footstool, and wait to hear his gracious words.
@@ -2170,6 +2205,8 @@ accompanied with a great concourse of people,
 among whom the testimony of Truth was borne,
 in the power and goodness of the Lord Almighty, to the comfort and strengthening of many.
 
+--
+
 +++[+++Not long after this, it came before him to pay another visit to America:
 for which journey he began to make the necessary preparations,
 committing his children to the care of relations and proper persons.
@@ -2187,11 +2224,15 @@ or any duties where this is not the object,
 ignorantly interpreted it as a judgment inflicted upon him by divine Providence,
 for leaving his family and outward concerns.
 
-Being hindered by this accident from attending the Quarterly meeting at York,
+Being hindered by this accident from attending the quarterly meeting at York,
 as he had designed, he acquainted his much esteemed friend, Benjamin Horner,
 with the occasion of his absence, in the following letter addressed partly to him,
-and partly to the Quarterly meeting at York.]
+and partly to the quarterly meeting at York.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend Benjamin Horner:
 
 It has happened that I have been stayed about home somewhat
@@ -2205,7 +2246,7 @@ all which gives me satisfaction.
 I have hitherto been ordered, in the will of the all-wise Disposer,
 which to me is enough, being all I desire on my part;
 and it was pleasant to me to see a likelihood to have the comfort of being with my
-near friends in the Quarterly meeting at York again before I leave my native land.
+near friends in the quarterly meeting at York again before I leave my native land.
 But now I am like to be prevented, by reason of an accident,
 whereby I am like to be unfitted for travel a week or two at least.
 Yet my friends may know,
@@ -2247,14 +2288,21 @@ and wherein, my dear friends, I tenderly salute you, hoping to be bettered,
 for your tender remembrance when we may be far separated; and thus I shall conclude,
 remaining your loving and near brother in pure fellowship.
 
+[.signed-section-signature]
 John Fothergill
 
+[.signed-section-context-close]
 Carend, the 11th of the First month
+
+--
 
 +++[+++At the time proposed he set out for London, in order to take shipping for America;
 of which voyage, and of his labours in the work of the ministry in that country,
 he kept the following Journal, which though short, was judged worthy to be preserved,
 viz:]
+
+[.small-break]
+'''
 
 In the year 1721, an exercise of spirit, in the moving of the word of life,
 came upon me to visit Friends in America again;
@@ -2262,8 +2310,8 @@ and though the matter seemed somewhat strait at the first,
 because my wife being taken from me, I was left with a pretty many young children;
 yet the moving of the word in my heart was so powerful, and sweet,
 that I was soon made perfectly willing to give up all and to follow the Lord freely.
-I laid the concern before the brethren at our Monthly meeting,
-and then at the Quarterly meeting,
+I laid the concern before the brethren at our monthly meeting,
+and then at the quarterly meeting,
 where Friends readily signified their unity with me in the exercise.
 
 I then settled my affairs and placed my children under proper care,
@@ -2298,7 +2346,7 @@ where a pretty many sober people came in with Friends,
 and we were favoured with the free extendings of
 the love and goodness of God to our comfort,
 and the satisfaction and encouragement of the meeting in general.
-On the 13th we went to a Monthly meeting at Chuckatuck,
+On the 13th we went to a monthly meeting at Chuckatuck,
 where was a fine appearance of Friends and the Lord`'s good presence,
 in the opening of his word and counsel was with us, and his holy name was magnified.
 The 16th we were at Friends meeting at Perquimons in Carolina.
@@ -2310,7 +2358,7 @@ We came back from thence to a meeting at Little River,
 where we were favoured with sacred help,
 and the testimony of Truth prevailed amongst the people.
 
-On the 20th we were at the Monthly meeting of Friends in Pascotank,
+On the 20th we were at the monthly meeting of Friends in Pascotank,
 whither came many Friends; and we had an edifying season together,
 through the abounding of gospel life and wisdom, blessed be the holy and great name.
 We had a meeting amongst some tender Friends the 22nd,
@@ -2322,7 +2370,7 @@ of the gospel of salvation towards the people,
 to the glory of the Lord of mercies.
 We came over the river to Mary Glaister`'s,
 and on the 24th visited some Friends`' families there-away.
-The 25th we came to Little river meeting again,
+The 25th we came to Little River Meeting again,
 which was very large of Friends and others;
 and the testimony of Truth opened freely and plentifully towards the meeting,
 and prevailed sweetly over many hearts;
@@ -2330,7 +2378,7 @@ and I so far forgot my bodily strength as to be very much spent,
 the weather being very hot; but the life and goodness of the Lord God was magnified,
 and the might of his holy arm supported me beyond reasonable expectation.
 
-The 26th we came to the lower meeting house upon Perquimons river again.
+The 26th we came to the lower meetinghouse upon Perquimons river again.
 The meeting was very large, and very solid and edifying.
 The 27th we came over the river again to a meeting not far from Gabriel Newby`'s;
 but so great a number of Friends and others were gathered,
@@ -2355,7 +2403,7 @@ went freely forth among them that day to the glory of God.
 We went the 31st to Robert Jordan`'s,
 and on the 1st of the sixth month we had a large
 and a solid meeting near Nansemond River,
-and on the 2nd at the Western Branch meeting house, which was large,
+and on the 2nd at the Western Branch meetinghouse, which was large,
 and mercifully favoured with divine attendance to the help of some tender Friends there;
 though there were many other people with whom Truth itself had but very little place.
 
@@ -2410,7 +2458,7 @@ yet the Lord was good to us in owning us with his presence,
 and enabled us to preach the gospel of Christ in the power of it, among them,
 wherewith divers of them seemed much affected.
 The 20th being the first of the week, we were at Friends meeting,
-in their meeting house in Surry County, which was pretty large;
+in their meetinghouse in Surry County, which was pretty large;
 but too many of the professors of Truth there, as in some other places,
 for want of living to the Truth, stood in the way of the gospel life,
 and hindered its prevalency among the people; yet the Lord helped to declare the Truth,
@@ -2532,7 +2580,7 @@ and Friends had to part under the sense of the love and goodness of God,
 whose holy name was magnified, as it is worthy to be forever.
 
 The 17th being first-day, and the conclusion of the yearly meeting,
-we came back again to Matthew`" Jordan`'s. The 18th we took our journey northward,
+we came back again to Matthew Jordan`'s. The 18th we took our journey northward,
 and came to James Bates`', at Skimino.
 The 19th to William Trotter`'s, a Friend who lives remote from any meeting,
 and had a meeting in his house next day, to which divers of his neighbours came,
@@ -2579,9 +2627,9 @@ and made it a good time to them and us; His great name was praised.
 
 The 4th we took our journey over Potomac and Patuxent rivers,
 and came to the widow Hutchins`' that night,
-and the 5th we were at the week-day meeting at Cliff meeting house;
+and the 5th we were at the week-day meeting at Cliff meetinghouse;
 we had a sweet season in the love of God.
-The 6th we had a meeting at Patuxent meeting house,
+The 6th we had a meeting at Patuxent meetinghouse,
 several being with us from the Cliffs;
 and a comfortable time we had through some deep travail,
 but the Truth prevailed over all.
@@ -2602,7 +2650,7 @@ nearer to it again.
 The 11th we came to Samuel Chew`'s. From hence we crossed the bay,
 and lodged the 12th at one Edward Ellicot`'s, not a Friend,
 but were kindly entertained by him.
-The 13th we went to Daniel Richardson`'s, and the 14th to Treadhaven meeting house,
+The 13th we went to Daniel Richardson`'s, and the 14th to Treadhaven meetinghouse,
 to the yearly meeting there, which continued five days successively,
 where a great number of Friends and others were gathered;
 and the Lord`'s goodness and majesty manifested among us, to the glory of God,
@@ -2614,7 +2662,7 @@ we were at a large meeting, and came back to William Thomas`' the 23rd,
 and had a meeting at Chester, wherein the power of Truth prevailed,
 to the comfort and strengthening of many.
 The 24th we came down to the widow Pitt`'s,
-and the 25th to Treadhaven meeting house again, to the quarterly meeting,
+and the 25th to Treadhaven meetinghouse again, to the quarterly meeting,
 and the monthly meeting, which was held the next day;
 wherein the life and goodness of Truth attended us to
 the encouragement and hope of those who loved it,
@@ -2652,7 +2700,7 @@ The 6th we went to the widow Waters`' at Annimesset,
 and on the 7th had a good little meeting there, to which divers other people came.
 
 On the 8th we took our journey downwards into Virginia,
-and on the 12th had a meeting at Neswadax meeting house,
+and on the 12th had a meeting at Neswadax meetinghouse,
 to which came a considerable number of soberly inclined people,
 and the Lord`'s power and testimony were exalted to our comfort and the glory of God.
 
@@ -2721,7 +2769,7 @@ The 19th I went to a meeting at Kennet,
 where the Lord gave us a good and edifying season,
 and on the 20th I had a meeting near Abraham Marshall`'s, being a newly settled place,
 and the Lord gave us a good time among the people there.
-The 22nd I went to another new place, called Cain,
+The 22nd I went to another new place, called Caln,
 where a pretty many people were gathered,
 towards whom the love and mercy of God extended freely, to their help and comfort.
 
@@ -2787,7 +2835,7 @@ and was exalted in many souls, to the comfort of the living,
 and the glory of the Lord of all our mercies.
 We had another meeting that evening, at the house of Hugh Foulke,
 which was much to our satisfaction.
-The loth we had a meeting at Plymouth, a good, informing and profitable season.
+The 10th we had a meeting at Plymouth, a good, informing and profitable season.
 And the 16th we were at North Wales meeting again;
 a large solidly edifying meeting it was,
 and the Lord`'s power spread weightily over many hearts.
@@ -2826,9 +2874,14 @@ strengthening season, through the merciful attendance of the power of Truth.
 The 1st of the twelfth month we had a very large meeting in Salem town,
 which the Lord made an awakening time, to the comfort of many.
 
+[.offset]
 +++[+++From hence he wrote the following Epistle to Friends in his own County,
 but more especially to Friends of Wensleydale meeting:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends:
 
 Whom I very often remember, though now separated far from you outwardly;
@@ -2929,7 +2982,7 @@ who manifests unto man what is good, and what he requires,
 doth and will attend and assist you to go forward,
 in performing and answering the blessed end, to our peace and his glory,
 how weak soever any may appear in their own sight,
-if they do but duly labour to follow him with full pin-pose of heart:
+if they do but duly labour to follow him with full purpose of heart:
 and that this may be more and more all our humble care, is my sincere advice to you,
 and prayer to him who can do all things.
 Amen.
@@ -2940,10 +2993,13 @@ and in it once more dearly greet you,
 and remain your sincerely loving friend and brother,
 in the unchangeable covenant of life.
 
+[.signed-section-signature]
 John Fothergill
 
+[.signed-section-context-close]
 Salem, in West Jersey, the 1st of the Twelfth month, 1721
 
+[.postscript]
 P+++.+++ S. I may further acquaint you, that through divine goodness and mercy,
 my health and strength are every way maintained and renewed,
 to mine and many Friends admiration, considering my diligence and the depth of labour:
@@ -2956,6 +3012,8 @@ We get forward pretty well, though not very speedily,
 but my hopes are renewed that I may yet live to see you again in the Lord`'s time,
 unto whose hand I am freely resigned, having my evidence, or confirmations,
 through divine help, that it is well I am here.
+
+--
 
 The 2nd of the twelfth month +++[+++continues the Journal]
 we had a meeting at Pilesgrove, where many soberly inclined people were gathered,
@@ -3014,7 +3072,7 @@ The 16th we went up the country to a new settled place about Manatawny,
 where were gathered some Friends and others;
 we had a good season amongst them in the love of Truth,
 much tending to their establishment.
-The 17th we had a meeting in the Baptist meeting-house near Skippack,
+The 17th we had a meeting in the Baptist meetinghouse near Skippack,
 at the request of some of them, where the Lord owned us in his wisdom and power,
 and gave us a comfortable time to general satisfaction.
 We parted lovingly, and came that night to Evan Evans`' at North Wales,
@@ -3049,7 +3107,7 @@ where the Lord God opened many things to them through my heart,
 for their help and encouragement in the work of the day.
 We went back to Bristol by boat, and rode to Joseph Kirkbride`'s.
 
-The 25th, being first-day, we got over the river in a boat near the fulls,
+The 25th, being first-day, we got over the river in a boat near the falls,
 but were driven down a great way by the strength of the stream,
 so that it was not without difficulty and danger that we passed.
 We got in pretty good time to Stony Brook,
@@ -3114,10 +3172,16 @@ where the wisdom and mercy of the Lord our God was evidently manifest in
 dividing the word of life to the several states and benefit of many;
 and His holy name was magnified.
 
+[.offset]
 +++[+++In his passage through west Jersey, he wrote the following epistle, viz:]
 
-To Friends of the Quarterly meeting at York.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To Friends of the quarterly meeting at York.
+
+[.salutation]
 My dear brethren and sisters in the covenant of life.
 
 Although I am now outwardly far separated from you for
@@ -3218,9 +3282,13 @@ in all your services, to the glory of the Lord God of our salvation,
 is the humble travail of my spirit,
 who remain your near brother in the heavenly covenant--farewell, farewell.
 
+[.signed-section-signature]
 John Fothergill,
 
+[.signed-section-context-close]
 West Jersey, 5th of the First month, 1722.
+
+--
 
 The 17th of the first month we came over Delaware to Philadelphia,
 to the meeting of ministers, it being their half year`'s meeting,
@@ -3278,7 +3346,7 @@ The next day we visited several Friends in our way to Kingston, where, on the 10
 we had a meeting, to which pretty many people gathered,
 and the Lord gave us a good time among them.
 
-That evening we went over to Conanicut Island, and has a meeting with Friends there;
+That evening we went over to Conanicut Island, and had a meeting with Friends there;
 and on the next day in the evening, we came to Newport, in Rhode Island, and were,
 the 12th, at the meeting there, which was pretty large and comfortable.
 The 13th we went to Portsmouth to Friends`'
@@ -3307,7 +3375,7 @@ The day following we had a good and solidly edifying meeting at Acoakset,
 and the next day another very large one at Poniganset; and a blessed time it was,
 in the fresh extending and prevalency of the Lord`'s power.
 
-The 20fh we had a meeting at Rochester,
+The 20th we had a meeting at Rochester,
 which through the gracious attendance of the power of
 Truth was made a good opportunity to many,
 and the Lord`'s holy name was magnified.
@@ -3363,7 +3431,7 @@ and the next day we had a meeting over a great river, in a place called Fairtown
 where few Friends live, but a considerable number of other people came,
 and heard the Truth declared attentively; but in general they are a hard dark people.
 We came over the river again, and went towards Providence woods, where on the 6th,
-being first-day, we were at a large meeting in Friends`' meeting house near this place,
+being first-day, we were at a large meeting in Friends`' meetinghouse near this place,
 and Truth helped us to declare the way of life and salvation,
 among a wild raw people who came in,
 and the religiously minded were comforted and encouraged;
@@ -3479,7 +3547,7 @@ in the demonstration of his eternal power and wisdom,
 greatly to the comfort and confirmation of many souls.
 There appeared to be a general satisfaction, and awful reverence on the minds of people:
 divers matters came under the consideration of Friends,
-relating to the propogation of Truth and righteousness,
+relating to the propagation of Truth and righteousness,
 and the comely order of the gospel, in the meetings for business;
 all which were carried on in peace and amity,
 and the great and most worthy name of the Lord was magnified over all.
@@ -3512,7 +3580,7 @@ blessed be his powerful name forever.
 
 The 18th we went to Newberry,
 and on the 19th we had a meeting near the middle of the town,
-in a warehouse belonging to captain Brown (so called) wlio offered it freely,
+in a warehouse belonging to captain Brown (so called) who offered it freely,
 and was very loving to us.
 Many of the town`'s people came in and about the house, some appearing afraid to come in;
 yet the word of life, and testimony of Jesus,
@@ -3544,7 +3612,7 @@ being desirous of having a meeting there,
 which was held the 26th. But the people were very shy of Friends,
 through the crafty and false insinuations of the priests,
 who nevertheless did not appear while we were there.
-We lodged at an Inn that night, in our way to York,
+We lodged at an inn that night, in our way to York,
 at which place we also inclined to have a meeting; and the 27th, with much endeavouring,
 we got liberty, and had a little meeting.
 Several people came in and sat quietly, others came about the house,
@@ -3629,7 +3697,7 @@ to encourage the living, and to awaken some sluggish, unfaithful professors,
 and to the winning upon the hearts of many of the youth.
 Some of the neighbouring people seemed much satisfied,
 and it was a time of good service for the Truth, in the Lord`'s power,
-and through his help.--`'We lodged that night at Henry Dowe`'s, where, in the evening,
+and through his help. We lodged that night at Henry Dowe`'s, where, in the evening,
 the Lord gave us a blessed edifying season, in his humbling love and power,
 to the help of the family and our comfort.
 
@@ -3736,7 +3804,7 @@ some good impressions were made on several that day.
 
 The 28th I came to Boston, and here met with my companion again.
 And on the 29th, being first-day, we had two meetings; likewise another on second-day,
-and again on third-day, in Friends`' meeting house there.
+and again on third-day, in Friends`' meetinghouse there.
 To all these came a considerable number of soberly behaved people,
 especially to the two latter; and Truth`'s testimony went forth freely,
 and seemed to have considerable influence upon
@@ -3868,10 +3936,10 @@ The 29th we were at Friends`' monthly meeting at Westbury,
 and had some good service among them,
 in the going forth of the love and counsel of Truth.
 We went to Flushing that night, and the 30th crossed the ferry to the main land again,
-to a meeting at Marnaroneck, and had a profitable season,
+to a meeting at Mamaroneck, and had a profitable season,
 in the extending of heavenly love and counsel towards a poor negligent people among them.
 Hereby I was pretty much eased,
-and the 3lsf we went to a meeting at Benjamin Haniland`'s in Rye woods,
+and the 31st we went to a meeting at Benjamin Haniland`'s in Rye woods,
 where pretty many of the several persuasions were gathered,
 and the Lord favoured us with his love,
 and helped to declare the Truth to the conditions of many of them.
@@ -3917,7 +3985,7 @@ in the love of God.
 
 The 8th we came over a part of Long Island, and Staten Island,
 to Woodbridge in East Jersey, and on the 9th, being first-day,
-we had one meeting at Friends meeting house, and another at Rahway river,
+we had one meeting at Friends meetinghouse, and another at Rahway river,
 at John Shotwell`'s; both which were favourably owned by the Lord of mercies,
 and his power and blessed testimony extended in a comfortable manner to us,
 and the help of many; blessed be his glorious name forever.
@@ -3934,7 +4002,7 @@ and to build up the convinced in the power and counsel of the holy Truth,
 much to our ease, and the confirmation of some in the way of righteousness,
 and the Holy name was magnified.
 
-The 13th we went to Manesquan, where a few Friends live, and had a meeting with them,
+The 13th we went to Manasquan, where a few Friends live, and had a meeting with them,
 to which several other people also came;
 and through the merciful help of the power of Truth, we had a seasonable open meeting.
 The next day we set out for Burlington, in order to be at the yearly meeting there,
@@ -4004,7 +4072,7 @@ where pretty many people gathered from divers places,
 and the Lord our God was pleased to open our hearts in his power and holy counsel,
 to their help;
 and we were concerned to stir up and warn against several
-hurtful practices which '`were creeping in among them,
+hurtful practices which were creeping in among them,
 and in discharging ourselves we were filled with the peace of God.
 
 The 8th we had a full and pretty open meeting at Herring Creek, to our satisfaction,
@@ -4016,10 +4084,10 @@ religiously minded Friends, with whom we had an open,
 and a solid comfortable time to our satisfaction,
 and their encouragement in the way and service of Truth.
 The 11th we took boat, with many Friends in company, and went over the bay of Chesapeak,
-in our way to the approaching Yearly meeting on the eastern shore,
+in our way to the approaching yearly meeting on the eastern shore,
 which began at Treadhaven the 13th, being seventh-day,
 and held till the 4th of the following week for public worship,
-and the affairs of Truth among Friends,
+and the affairs of Truth among Friends.
 Great numbers of almost all sorts of people came thither,
 and the Lord God was pleased to open the glorious testimony of Truth,
 and the way of life, in his mighty power;
@@ -4041,6 +4109,9 @@ much to our ease and satisfaction,
 many of the people in those parts having long
 been in a poor lukewarm and indifferent state.
 
+[.small-break]
+'''
+
 +++[+++From hence he wrote the following letter, to a Friend lately convinced in New England,
 and his wife, who was at times under some concern of mind on account of religion,
 though then professing among the Presbyterians.
@@ -4048,6 +4119,10 @@ It is worthy of the perusal and consideration of
 those who would indeed be truly religious;
 viz:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Near and loving Friend,
 
 As true brotherly love and tender well wishing,
@@ -4107,7 +4182,7 @@ I say, the going from this has been the cause of losing the sense of his pure lo
 and life, and comfort therethrough to the soul, and of departing into forms and modes,
 of splitting into various sects,
 contending and striving one with another about names and shadows of things:
-men s human apprehensions and interests having become
+men`'s human apprehensions and interests having become
 too much the rule and bottom of many people,
 and a feeding upon words and performances without life,
 which occasions both great barrenness of heart, and want of godly conversation.
@@ -4147,15 +4222,19 @@ and he will assuredly draw nigh to you, and become your Shepherd, and you shall 
 The arm of the Lord of hosts be your leader and feeder, your shield, your buckler,
 and may he cover your head in the day of battle,
 for great is the wrath of the dragon against the return of the Church,
-and her coming up out of the wilder ness, or bewildered slate,
+and her coming up out of the wilderness, or bewildered state,
 that she may again enjoy her ancient beloved, her Redeemer, her head and husband.
 Thus, under a solid degree of divine love, which extends freely towards you,
 I tenderly take my leave of you, and remain, if I never see you more,
 your truly loving friend,
 
+[.signed-section-signature]
 John Fothergill.
 
+[.signed-section-context-close]
 Maryland, the 20th of the eighth month, 1722.
+
+--
 
 From Cecil, +++[+++continues the Journal]
 we went the 21st to Duck Creek, to a half year`'s meeting,
@@ -4187,7 +4266,7 @@ and though I was much indisposed, yet Divine goodness owned us,
 and we were helped to bear testimony to the blessed truth,
 which prevailed amongst us to our comfort, and the glory of God.
 
-The 30th we had a meeting near George`'s Creek, at Friends`' meeting house,
+The 30th we had a meeting near George`'s Creek, at Friends`' meetinghouse,
 where many Friends met us from several places,
 and Divine goodness was pleased to favour us with a profitable time,
 to the stirring up of the loiterers, and giving relief to the honest-hearted travailers.
@@ -4289,6 +4368,7 @@ we hired her to carry us to the isle of Wight; the next day we got to Portsmouth
 and took post horses for London, where we came the 3rd in the morning, being second-day,
 and got to the meeting of ministers, the beginning of the yearly meeting 1724.
 
+[.offset]
 +++[+++Of this visit to America, he gave the said yearly meeting the following relation, viz:]
 
 We^
@@ -4423,9 +4503,14 @@ to him, the support, defence and rich rewarder of his people and servants,
 in awfulness of soul be ascribed all glory and preeminence,
 with fear and praise, forever.
 
+[.offset]
 +++[+++From Barbados he wrote the following Epistle to Friends of Dover meeting,
 in New England, viz.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends:
 
 Since I was with you,
@@ -4433,7 +4518,7 @@ my spirit has often turned towards you in the movings of true and near love,
 and in tender, fervent breathing, for your being inwardly sustained,
 strengthened and encouraged in an humble dependence
 upon the pure and invisible arm of the Lord Almighty,
-and in a due devoted`' ness of soul to follow him with full purpose of heart.
+and in a due devotedness of soul to follow him with full purpose of heart.
 I have wanted an opportunity to manifest my remembrance of you in a few lines,
 which I hope I may have from hence, and herewith extend my dear salutation,
 in that pure engaging love of our gracious God,
@@ -4533,17 +4618,26 @@ and put a true value upon the day and time of the Father`'s love,
 I commit you to the all-sufficient word of life and truth,
 and remain your near friend and brother in the Truth,
 
+[.signed-section-signature]
 John Fothergill.
 
+[.signed-section-context-close]
 Barbados, the 18th of the twelfth month, 1723.
+
+--
 
 +++[+++Before he set sail for England,
 he found himself engaged to visit those who professed with us in the other islands,
 with the following epistle, which he entitled:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A brotherly salutation, with some Christian exhortations,
 to the professors of Truth in Antigua, Anguilla, Jamaica, or thereaway.
 
+[.salutation]
 My Friends,
 
 It having fallen to my lot, through the moving of the word of life,
@@ -4690,7 +4784,7 @@ and waited upon by all, that they may be made experiencers of his salvation.
 Oh! good is the Lord, worthy to be feared, waited upon, and obeyed faithfully forever,
 saith my soul,
 in the immediate sense and view of the free
-Teachings forth of his powerful arm of salvation,
+reachings forth of his powerful arm of salvation,
 healing and nursing goodness; especially towards humbly concerned hearts,
 that are sincerely desirous to be helped to grow
 up obedient children to the everlasting Father,
@@ -4767,12 +4861,19 @@ and according to my understanding, in the way which truth hath opened, in true s
 I take my leave in the extendings of the love of Christ,
 wherein I remain your true and real friend,
 
+[.signed-section-signature]
 John Fothergill.
 
+[.signed-section-context-close]
 Barbados, the 23rd of the first month, 1723
+
+--
 
 +++[+++Soon after his return from America, in the same year, he visited Friends in Ireland,
 of which journey he left the following account:]
+
+[.small-break]
+'''
 
 Having been under a weighty concern for some time to visit Friends in Ireland,
 and perceiving my way to be opened for that service, about the 27th of the fifth month,
@@ -4780,7 +4881,7 @@ and perceiving my way to be opened for that service, about the 27th of the fifth
 and the next day at Preston, near Kendal, at the burial of an ancient Friend.
 From thence I went pretty straight to Whitehaven, staying one night with James Dickenson.
 On first-day we had a meeting within the walls of the
-new meeting house which was building there;
+new meetinghouse which was building there;
 and the Lord`'s power and testimony prevailed among a very large assembly,
 greatly to our satisfaction and encouragement.
 
@@ -4919,7 +5020,7 @@ wherein the living,
 humbling power and gospel doctrine mercifully prevailed over many hearts,
 to mine and Friends`' true gladness; and the glorious name was magnified.
 The 2nd I went to Cork again, where we had a precious, edifying and satisfactory meeting,
-to our true comfort; in the sense whereof, we took leave of one-another,
+to our true comfort; in the sense whereof, we took leave of one another,
 and with several Friends I came to Mallo, and the 3rd to Limerick; where, on the 4th,
 we had two large and precious meetings, in the free extendings of divine love amongst us,
 to the help of many.
@@ -4976,23 +5077,28 @@ The 26th I had a meeting at Wexford, and the 27th, another at Ballynacarrick,
 which was a very close, searching, warning time; yet healing to the upright,
 and it was made a good season.
 The 28th I had a meeting at Cooladine, which was a pretty helpful time to our comfort,
-but with close warning to some stiff necked people; the 29th, another at Ballynaclare,
+but with close warning to some stiff-necked people; the 29th, another at Ballynaclare,
 and the 30th, another at Askinthynny,
 where the Lord gave us a precious comfortable season in
 the free goings forth of his awakening power and love,
 which much healed my deep travailing soul, and his pure name was glorified.
 
 The 1st of the ninth month I had a large meeting at Ballycane; the 2nd,
-another at Wicklow, The 4th I came to Dublin,
+another at Wicklow. The 4th I came to Dublin,
 and was at a blessed meeting with Friends there
 the 6th. On the 7th the half-years meeting began,
 which continued four days, and the Lord our God graciously favoured us therein,
 by owning and helping with his powerful presence and wisdom, greatly to our comfort,
 and Friends parted in peace and heavenly nearness, with living praises to the Almighty.
 
+[.offset]
 +++[+++Whilst he stayed at Dublin,
 he wrote the following lines to Friends of Wensleydale meeting, viz:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My near and dear Friends,
 
 Who love truth itself, and want to be what heaven would have you,
@@ -5043,7 +5149,10 @@ that you may be prepared for him to shine upon you;
 for in his presence there is life and sure help, and true welfare;
 and that you may thus fare well indeed, is the desire of your true friend,
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 On the 12th of the ninth month,
 (continues the Journal,) I had a meeting with
@@ -5067,7 +5176,7 @@ and reaching to many others, and the most holy name was glorified.
 That evening and the next morning I was at Thomas Wilson`'s,
 where heavenly life and goodness very humblingly
 and sweetly overspread my soul with many Friends,
-uniting us in a near manner at our parting from one-another.
+uniting us in a near manner at our parting from one another.
 
 The 30th I went to Dublin, not knowing then but that I might go readily for England;
 but some heavy exercise grew over my spirit for several days,
@@ -5134,7 +5243,7 @@ The 30th we came to Gershom Boate`'s at Dunmore,
 and had a good prevailing season that evening,
 in the free extendings of the gospel towards some civil people who came to our meeting.
 
-The 1st of the eleventh month we came to Mary`'s town to Gershom Boate`'s, jun.,
+The 1st of the eleventh month we came to Mary`'s town to Gershom Boate, Jr.`'s,
 and had a good and large meeting of Friends and others the next day,
 and some good service with the families in the evening.
 
@@ -5152,9 +5261,12 @@ to comfort and good service in the love of Truth, at Lismoiney.
 The 9th, we went to Henry Fuller`'s, at Ballitore,
 and had a large and comfortable time in the Father`'s
 love with some Friends there that night.
-The 10th, we went to the Province meeting at Castledermot, which held two days,
+The 10th, we went to the province meeting at Castledermot, which held two days,
 and Friends were helped in the Lord`'s service together, and parted in comfort.
 We came back to Ballitore, where we had a large meeting in the evening.
+
+[.small-break]
+'''
 
 +++[+++If a journal of the remaining part of this visit was by him kept,
 it is either mislaid or lost,
@@ -5165,6 +5277,10 @@ to which is added an affectionate memorial of his fervent
 regard to the Friends of his own particular meeting,
 from the same place.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Cousin, G. M.
 
 In fresh and near love my dear salutation often and now reacheth to thee and mother,
@@ -5195,7 +5311,7 @@ and travelled hard, having in that time rode near 300 miles in almost constant r
 which hurt my health; however the glorious name of the Lord was with us,
 and was magnified.
 
-"`When I had nearly gone through this service,
+When I had nearly gone through this service,
 instead of being able to look towards home with cheerfulness,
 there seemed like darkness to stand betwixt me and England,
 and my heart is still drawn another way,
@@ -5214,12 +5330,21 @@ and seek to fear and love the Lord, and in so doing fare well;
 and thus may you all fare well, farewell.
 I am thy loving friend and cousin,
 
+[.signed-section-signature]
 John Fothergill.
 
+[.postscript]
 P+++.+++ S. Thou mayest let Friends see the few lines enclosed, viz:
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends of Wensleydale monthly meeting in Yorkshire.
 
+[.salutation]
 Dear Friends,
 
 Although it is ordered that I am very unexpectedly detained from you so long,
@@ -5238,7 +5363,7 @@ and engage your hearts for the cause of the Lord in every respect, and that you 
 both elder and younger, male and female,
 be encouragers and helpers one of another in the
 ways of righteousness and true blessedness.
-And oh! my near Friends, that you may all thus labour '`in heart and soul,
+And oh! my near Friends, that you may all thus labour in heart and soul,
 and feel after the springing of immortal life; to look to,
 and follow the drawings of the pure love of the Lord God, the Redeemer, the succourer,
 the strengthener of all the true and honourable servants, young and old, in all ages.
@@ -5262,7 +5387,10 @@ building up of all the Lord`'s children and people,
 to the glory and praise of the Lord God of mercy and salvation,
 worthy to be trusted in and followed fully forever.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 +++[+++Towards the end of this year (as a short journal informs us)
 he visited some of the south parts of England,
@@ -5296,12 +5424,12 @@ in a wonderful manner.`"
 After this he had a meeting at Melksham, which he mentions as a close,
 plain-dealing season; also at Calne, Charlcott, Chippenham, and Corsham; which last,
 he observes, was very large, Friends from many other meetings being there;
-and I was opened, says he, and helped to preach the gospel in its own power and counsel,
+"`and I was opened,`" says he, "`and helped to preach the gospel in its own power and counsel,
 which through divine goodness prevailed, to the help and reviving of many,
 and to my great ease of spirit in that part of the country,
 having been much exercised under a weighty sense of a lukewarm,
 earthly spirit among the many professors of Truth thereaway;
-yet the Lord rose against it, to the awakening of several to more religious fervency.
+yet the Lord rose against it, to the awakening of several to more religious fervency.`"
 
 He went from hence to Marshfield, Deadmartin, Hullington and Tedbury,
 at which places he had meetings which were pretty profitable and satisfactory.
@@ -5316,13 +5444,13 @@ At Namptwich in Cheshire he had a meeting at an inn, which was an open time,
 in the free spreading of the gospel, among many sober people, in the love of God.
 After this he had meetings at Newtown and Franley in the same county;
 from thence to Wooldale and Hightown, at both which places he had satisfactory meetings,
-and got to York the 24th of the first month, where, says he.
-Friends were truly comforted together, in the power and love of God,
+and got to York the 24th of the first month, where, says he,
+"`Friends were truly comforted together, in the power and love of God,
 which attended the meeting (or our help in his service.
-From hence, he adds, I returned home,
+From hence,`" he adds, "`I returned home,
 with peace and true satisfaction through the Lord`'s favour,
 whose holy and great name had, and hath the praise, who is worthy to be feared,
-served and magnified, forever.
+served and magnified, forever.`"
 
 Whilst he was upon his late visit in Ireland,
 he received an account of the dangerous indisposition of one of his sons,^
@@ -5362,6 +5490,9 @@ she surviving him not much more than a year.
 The next account that we have of any public service,
 is a visit to Friends in Wales and the south of England,
 of which we have the following relation:]
+
+[.small-break]
+'''
 
 Being drawn in spirit to visit Wales, and some other parts southward;
 in the forepart of the second month, 1732, I began my journey for that end,
@@ -5448,6 +5579,9 @@ had two meetings pretty much to satisfaction, and there seemed reason to hope,
 that Friends there, who had formerly been hurt, may yet recover in a religious mind,
 and become a good meeting.
 
+[.small-break]
+'''
+
 +++[+++The account of this journey breaking off here,
 and no other mention of it occurring in any of the papers he has left, makes it probable,
 that he went from hence to the yearly meeting at London pretty directly,
@@ -5461,7 +5595,10 @@ and many people of note then frequenting it.
 The year following he was engaged to visit some of the southern parts of England again,
 and has left the following account of it, viz.:]
 
-:In the year 1733,
+[.small-break]
+'''
+
+In the year 1733,
 a fresh concern came upon me to visit some of the south and west parts of England,
 and the time to set forward seemed to be in the latter part of the ninth month.
 I accordingly left my family the 20th, and was at Leeds, Wakefield and Hightown,
@@ -5649,11 +5786,18 @@ by reason of several Friends being absent.
 On fifth-day, being the 6th of the first month, we came to Bradford, being both well,
 and in true love and nearness one to another.
 
+[.small-break]
+'''
+
 +++[+++Among the papers containing an account of this visit,
 was the following epistle to a quarterly meeting which
 they were prevented from attending in person,
 viz.:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 Although we had once a desire and hope to be with you at this meeting,
@@ -5742,14 +5886,22 @@ and remain your truly loving Friends in the sincerity
 of the gospel of Christ our Lord and Saviour,
 and law-giver.
 
+[.signed-section-signature]
 John Fothergill
 
+[.signed-section-signature]
 Benjamin Bartlet
 
-The 9th of the 12th month, 1933-34
+[.signed-section-context-close]
+The 9th of the 12th month, 1733-34
+
+--
 
 +++[+++In a letter to a Friend, dated from Port Isaac, upon this journey,
 he gives the following account:]
+
+[.embedded-content-document.letter]
+--
 
 My health is sustained mercifully,
 and holy help afforded to live and labour in the service for which I am drawn hereaway;
@@ -5770,7 +5922,10 @@ and at the Land`'s-End in this county.
 We expect it will be near three weeks before we get through Somersetshire,
 from whence we propose to go homewards pretty readily.
 
+[.signed-section-signature]
 John Fothergill
+
+--
 
 +++[+++About the year 1733 his second son Thomas Fothergill,
 died in the twenty-second year of his age; of whom,
@@ -5795,6 +5950,10 @@ encouragement to many in their religious duties.
 As some such letters have been preserved, that were written about this time,
 we thought it not improper to insert some extracts from them in this place, viz.:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Son,
 
 It is not unpleasant to have necessary occasions of writing to thee given me,
@@ -5828,7 +5987,7 @@ and at the same time help to walk safely on the sea of glass,
 to which this world may be well compared.
 Wherefore look carefully to Truth, and the beauty of its simplicity,
 and thou wilt have to behold the reeling chaffy spirit and ways of this world,
-father with an eye of scorn than love,
+rather with an eye of scorn than love,
 and be thankful that thou art in measure already gathered and set above it.
 And it will be good to consider also,
 that though diligence is a great and necessary thing,
@@ -5912,6 +6071,8 @@ always weakens and enslaves, and renders that dwarfish,
 which the Lord of all power would make strong,
 healthy and sounds and able to walk in his way with alacrity.
 
+--
+
 +++[+++In the year 1736 he made the necessary preparations
 for his third and last visit to America,
 which had been before him a considerable time.
@@ -5919,6 +6080,9 @@ From the short minutes he kept of it,
 we have transcribed the following narrative and
 interspersed such epistles as have come to our hands,
 that were written in this journey.]
+
+[.small-break]
+'''
 
 An exercise having been upon me some years to visit the churches in America once more,
 it now became weighty and clear before me,
@@ -5938,10 +6102,17 @@ my spirit being clear and at liberty, and a ship being ready,
 I went on board at Gravesend, in the ship called the Jane, bound for Philadelphia,
 the 9th of the fourth month, and set sail the next day.
 
+[.small-break]
+'''
+
 +++[+++Whilst the ship was under sail towards the Downs,
 he wrote the following epistle to Friends of the yearly meeting in London,
 held in the fourth month, 1736, viz.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear and truly beloved Friends and Brethren:
 
 Apprehending myself brought under engagement in spirit,
@@ -5995,9 +6166,13 @@ and in the nearest and strongest covenant saith to you, farewell,
 who am your nearly affectionate friend and brother,
 truly craving to be in your remembrance.
 
+[.signed-section-signature]
 John Fothergill.
 
+[.signed-section-context-close]
 10th of Fourth month, 1736.
+
+--
 
 We +++[+++continues the Journal]
 arrived safely and well at Philadelphia the 6th of the sixth month,
@@ -6044,7 +6219,7 @@ I had no freedom to appoint a meeting there,
 and so set out the next day towards Neswaddacks,
 where notice had been given of our intention to have a meeting the next day,
 which was the first of the week.
-The meeting was held in the meeting house where
+The meeting was held in the meetinghouse where
 formerly there had been a pretty number of Friends,
 but now they are nearly gone, through the love of the world,
 with its enjoyments and liberties; so that a meeting is hardly kept there;
@@ -6151,7 +6326,7 @@ as I expected nothing but to lodge in the open woods that night.
 
 The 13th we went to Abraham Hollingsworth`'s, a Friend, near Opeckon, and the next day,
 being first-day, I was at a meeting with some Friends and divers others,
-at the meeting house near Alexander Rosse`'s,
+at the meetinghouse near Alexander Rosse`'s.
 The 15th I came back to Abraham Hollingsworth`'s in order to
 be at a meeting the day following near Shenandoah river,
 which was held at Robert Mackay`'s the younger, and was pretty open and comfortable.
@@ -6198,7 +6373,7 @@ The last was pretty large, many Friends being there from divers places;
 from whence I went home with John Salkeld, and on the 22nd got to Philadelphia,
 and the day following was at Friends`' week-day meeting,
 where we were graciously favoured with heavenly help, much to our comfort,
-i stayed thereabout till the first-day following,
+I stayed thereabout till the first-day following,
 when the Lord was pleased to bless us by his power and love,
 much to our humiliation in his presence, in three public meetings.
 
@@ -6211,7 +6386,7 @@ and on the 2nd of the eleventh month another at Oley with Friends thereaway,
 which was much to my ease, and the comfort of the upright-hearted.
 I had meetings likewise at the Furnace near Manatawny, and at the Great Swamp,
 which truth made a truly good time to many; also at a place called Plumstead,
-and a large one at Friends`' meeting house near Buckingham,
+and a large one at Friends`' meetinghouse near Buckingham,
 and from thence I went to Wright`'s town and Falls,
 at which places I had a large and truly edifying meeting.
 I had likewise meetings at Trenton, Burlington, and Bristol,
@@ -6234,12 +6409,12 @@ where on the first of the twelfth month, a general meeting was held.
 The next day, through the help of Truth, we had a precious opportunity at Springfield,
 the day alter at Darby, and the next at Merion, which was large and edifying.
 From hence I went with some Friends who came to meet me,
-to Israel Pemberton`'s at Philadelphia,
+to Israel Pemberton`'s at Philadelphia.
 On the 5th was a quarterly meeting of ministers and elders; the 6th being first-day,
 I was at three meetings, wherein divine regard very comfortably owned and helped us.
 The 7th I was at a quarterly meeting of business for the county,
 which was large and peaceable; and on the next day at the youths`' meeting there,
-which through the gracious goodness of the Lord, was made a blessed time to many,
+which through the gracious goodness of the Lord, was made a blessed time to many.
 I left the city on the 9th, and had meetings at Chester and Middletown,
 and was at the quarterly meeting of ministers and elders at Concord,
 where I stayed over the first-day,
@@ -6260,7 +6435,7 @@ I returned from hence to Philadelphia, where I stayed near a week,
 and had some satisfactory service in divers cases.
 
 The 1st of the first month, 1737, being third-day, I had a meeting at Germantown,
-from whence I went over the river into the Jerseys, and had meetings at Woodbury creek.
+from whence I went over the river into the Jerseys, and had meetings at Woodbury creek,
 Pilesgrove and Salem, which last was large and edifying,
 through the love and wisdom of Truth.
 The next day I had a precious meeting at Alloways creek,
@@ -6325,7 +6500,7 @@ and went to a place called Squan, where notice being spread among the neighbourh
 of a meeting to be held the next day, we had on the 17th a large and helping meeting,
 through the gracious assistance of the Lord our God.
 After meeting I went near Shrewsbury,
-and the 20th had a meeting at Middletown in a Baptist meeting house,
+and the 20th had a meeting at Middletown in a Baptist meetinghouse,
 among some soberly inclined people of several professions,
 which was to good satisfaction.
 
@@ -6404,7 +6579,7 @@ and got that evening to my brother-in-law John Proud`'s, in Newport.
 On the 9th the yearly meeting began at Portsmouth, and a large precious meeting it was.
 I returned to Newport, where the yearly meeting continued, and held four days,
 the assembly being large and peaceable,
-and al times comfortable in the arisings of the mighty power and love of God,
+and at times comfortable in the arisings of the mighty power and love of God,
 who had the glory and praise.
 The 15th I had a large and edifying meeting at Tiverton, and lodged at Joseph Wanton`'s,
 where we had a good little meeting that evening.
@@ -6425,7 +6600,7 @@ and Almighty goodness mercifully owned us, and enabled to preach his everlasting
 much to the people`'s satisfaction, who behaved very civilly.
 
 The 1st of the fifth month I had a meeting at Pembroke, and rode that evening to Boston;
-and the 13rd, being first-day, went to the quarterly meeting at Hampton,
+and the 3rd, being first-day, went to the quarterly meeting at Hampton,
 where many Friends and others gathered;
 the next morning Friends transacted the affairs of the church,
 and had a public meeting afterwards.
@@ -6488,7 +6663,7 @@ and the following at a yearly meeting at Providence town, which was large,
 and to some satisfaction.
 
 The 1st of the sixth month I had a large and
-pretty good meeting at Smithfield meeting house,
+pretty good meeting at Smithfield meetinghouse,
 through heavy and faithful labour, in divine help;
 another the day following at Ebenezer Woodward`'s in Taunton,
 and the next day at Swanzey which was large on account of a burial,
@@ -6557,7 +6732,11 @@ and through the merciful attendance and blessed help of divine Goodness,
 it was made a glorious, comfortable, strengthening time,
 and peace and unity appeared eminently amongst Friends.
 
+[.offset]
 +++[+++Of this meeting, he gives some further account in a letter to one of his sons, viz.:]
+
+[.embedded-content-document.letter]
+--
 
 As to myself, I am, I think, somewhat miraculously supported,
 and am in good health pretty generally, and expect I may be so discharged,
@@ -6576,7 +6755,10 @@ Thus farewell, farewell, saith thy nearly affectionate father,
 to the best of my capacity in every respect which I hope thou art, and often will be,
 profitably sensible of.
 
+[.signed-section-signature]
 John Fothergill
+
+--
 
 On the 22nd of the seventh month (continues the
 Journal) after the yearly meeting was over,
@@ -6609,7 +6791,7 @@ many Friends and others were present, and the blessed Truth owned us,
 mercifully prevailing to our comfort, and the Lord our God had the glory.
 After this I had meetings at Duck creek, George`'s creek, Newcastle,
 and a pretty large one at William Shipley`'s at Wilmington, also at George Kissen`'s,
-Ken net, and New Garden; at Concord, Providence, and a large heavenly meeting at Goshen,
+Kennet, and New Garden; at Concord, Providence, and a large heavenly meeting at Goshen,
 I went from hence to North Wales, and was at two meetings there,
 wherein divine Goodness was manifested to our comfort, and the holy name was honoured.
 
@@ -6638,7 +6820,7 @@ as also the next day at the youths`' meeting, which was large,
 and made thoroughly satisfactory in discharging me of those parts.
 
 The 23rd I had a blessed meeting with Friends at Pilesgrove,
-and the next day was at a general meeting at Pladdonfield,
+and the next day was at a general meeting at Haddonfield,
 wherein the Lord our God graciously owned us, and blessed our meeting,
 giving us to part one from another in a living sense of his love and power;
 and his glorious name was worshipped and praised.
@@ -6661,10 +6843,15 @@ though we could converse very little but by an interpreter.
 We had a safe passage, through some very stormy weather,
 and landed in Barbados the 9th of the eleventh month, 1737.
 
+[.offset]
 +++[+++From Barbados he wrote the following epistle
 to Friends on the Eastern shore of Maryland.]
 
-Dear Friends
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friends,
 
 In the extendings of the love of Christ the great and
 blessed Shepherd of the Lord`'s flock everywhere,
@@ -6780,8 +6967,10 @@ Thus, dear Friends, my soul longs for you, and for the Father`'s honour,
 and in his name salutes the living.
 I am your true friend, and an earnest seeker of your present and eternal good.
 
+[.signed-section-signature]
 John Fothergill.
 
+[.postscript]
 P+++.+++ S. If I have been very pressing and earnest with you,
 and not without danger of offending some, yet know ye,
 it is from a clear view that the Lord of heaven and earth,
@@ -6799,7 +6988,7 @@ I am now clear, and beseech that you may make proper use of this and all other f
 both in thinking of it carefully, and spreading it as may be judged necessary;
 and I seem rather moved with desire that this,
 or a copy of it may go to Friends over the bay.
-Though`' at present my hope seems weak of some,
+Though at present my hope seems weak of some,
 of their regarding any thing that may be for their effectual help,
 yet the unchangeable God, his holy Truth, and faithful labourers in his love and fear,
 will be clear,
@@ -6807,11 +6996,18 @@ and have comfort in themselves from him whose ear grows
 not heavy that it cannot hear in any land or age;
 glory and thanksgiving be to his name forever and ever.
 
+[.signed-section-context-close]
 Barbados, the 23rd of the Twelfth month, 1737
 
-All the account that remains of his visit to this island, and of his return,
-we believe is contained in the following letters to one of his son in England, viz.
+--
 
++++[+++All the account that remains of his visit to this island, and of his return,
+we believe is contained in the following letters to one of his sons in England, viz.]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barbados, 27th of the Eleventh month, 1737.
 
 I was brought hither well about sixteen days ago, in thirty-two days from Philadelphia,
@@ -6833,11 +7029,15 @@ and of fatherly, succouring encouragement to the few spiritually minded here.
 May rain from heaven bedew thy soul and understanding;
 and cherish and revive the Lord`'s heritage everywhere.
 
+[.signed-section-signature]
 J+++.+++ F.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barbados, 12th of the Second month, 1738.
 
 Nearly affectionate and careful remembrance of thee,
@@ -6849,7 +7049,7 @@ and for the present we must submit to be yet longer separated than I expected,
 when I last wrote.
 No vessel hath sailed hence to any part of England, that I know of,
 nor is likely to do soon for London,
-so that I conclude to lake passage in one bound for Lancaster, and which +++[+++may]
+so that I conclude to take passage in one bound for Lancaster, and which +++[+++may]
 set sail in two or three days; being now very desirous to be gone hence.
 Though I hope never to forget the merciful nearness and goodness of Truth to me here;
 both in affording the renewed sense of heavenly life, and in preserving my health.
@@ -6860,20 +7060,25 @@ and the few Friends here, are very loving and respectful;
 and I hope I shall leave the place with inward ease to myself, and reputation to Truth.
 From thy truly loving father.
 
+[.signed-section-signature]
 J+++.+++ F.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Lancaster, 2nd of the Fourth month, 1738.
 
+[.salutation]
 Dear Son,
 
 Hereby thou wilt understand, I am brought safe to my native land again,
 in which I very humbly acknowledge merciful Goodness and preservation,
-still engaging in love, fear and reverent trust towards the most gracious.
+still engaging in love, fear and reverent trust towards the most gracious,
 Almighty Lord God, of whose goodness, power and mercy, there is no end.
-I strongly intended to have came by way of London,
+I strongly intended to have come by way of London,
 had any passage offered with a probability of my reaching the yearly meeting;
 but when this seemed unlikely to happen, I rather chose to come to this place,
 where I arrived last night, after a passage of six weeks betwixt land and land,
@@ -6885,7 +7090,10 @@ So with dear salutation in holy living love to my near
 friends (and there are many such) and to thyself,
 I remain thy ardently well-wishing father.
 
+[.signed-section-signature]
 J+++.+++ F.
+
+--
 
 +++[+++From Lancaster he went directly to his habitation, which was then in Netherdale,
 Yorkshire, where he was joyfully received by his family and friends,
@@ -6899,6 +7107,10 @@ which indeed was solemn and edifying in many respects, in a very eminent manner.
 Whilst he was on this visit in America,
 he wrote the following epistle to Friends of the quarterly meeting at York:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 In the solid sense of the uniting, heart-warming, strengthening, love and life,
@@ -6937,7 +7149,7 @@ who is at work under various disguises, assaulting the work of the gospel,
 and will help the Lord`'s people to be more and more bright in life,
 and successful in labour.
 Be sure you be honest and true in your lots and posts,
-both when you are collected to act ip a body, for the propagation of peace and purity,
+both when you are collected to act in a body, for the propagation of peace and purity,
 and the beauty of Truth,
 and to discourage the appearance and operation of the
 defiling and enticing spirit of unrighteousness;
@@ -6995,12 +7207,19 @@ I have now been at the most northern part of New England where any Friends live,
 and hope to be at Boston in about a week, where Friends are somewhat increased,
 and the people civil and courteous, as they now are in many, if not most other places.
 
+[.signed-section-signature]
 John Fothergill
+
+--
 
 +++[+++This epistle was dated at Hampton, in the east of New England,
 the 5th of the fifth month, 1737,
 and accompanied the following one to Friends of Wensleydale meeting.]
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My near and truly beloved Friends,
 
 Although it hath pleased the everlasting Father and blessed comforter of his people,
@@ -7097,7 +7316,10 @@ through Jesus Christ our Lord, where we have also to worship livingly;
 I once more salute you,
 and remain your truly loving friend and brother to the living in Israel.
 
+[.signed-section-signature]
 John Fothergill
+
+--
 
 +++[+++To these epistles it may not be improper to subjoin the following testimonials of
 his labours and travels in the ministry in those parts of America,
@@ -7108,6 +7330,10 @@ as it seems to be the most comprehensive of the
 peculiar nature of his labours and services,
 viz.:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To our Friends and brethren of the monthly meeting of Richmond, in Yorkshire,
 or where else this may come.
 
@@ -7131,14 +7357,19 @@ and sincerely desire his future preservation every way,
 that in the Lord`'s time he may be conducted home to you and his family in safety,
 with sheaves of peace in his bosom.
 
-Signed at and in behalf of our Quarterly meeting held on Rhode Island,
+Signed at and in behalf of our quarterly meeting held on Rhode Island,
 the 13th of the eighth month, 1737, by forty-six Friends.
+
+--
 
 +++[+++In the year 1739, when the winter quarterly meeting at York, which he attended,
 was over, he set out for Norfolk; which county, part of Suffolk and London,
 had been before him some time, yet not so distinct and clear as he most loved;
 of which he gave the following instructive account in a letter to one of his sons,
 dated from Sutton in Lincolnshire, the third of the eleventh month, viz.]
+
+[.embedded-content-document.letter]
+--
 
 Though I have been unusually long without writing to thee,
 both on account of having little material to advise of,
@@ -7165,7 +7396,10 @@ that county, and the upper or western parts of Suffolk and Essex,
 having most place with me.
 Meeting time being come, I must bid farewell, and am thy loving father.
 
+[.signed-section-signature]
 J+++.+++ F.
+
+--
 
 +++[+++After having visited the counties above-mentioned,
 he came up to London the beginning of the month following,
@@ -7187,7 +7421,7 @@ and it being the first after his return from America,
 according to the general practice of Friends, and at the desire of his brethren,
 he gave a concise and instructive account of his last visit to those parts,
 the state of Friends, the increase of the Society in some places,
-and its declining slate in others,
+and its declining state in others,
 with the causes which had most obviously contributed thereto.
 He observed, that as the elders of the people were preserved in freshness and zeal,
 under a diligent care for the growth of spiritual religion, truth increased,
@@ -7212,17 +7446,25 @@ often remembering his absent friends and children with true affection,
 and manifesting his care for their truest interest;
 to one of whom he writes in the following manner; viz:]
 
-"`...but above all, my longing is for thy spiritual access,
+[.embedded-content-document.letter]
+--
+
+...but above all, my longing is for thy spiritual access,
 and enlargement in the heavenly pastures,
 under the leading and putting-forth of the one heavenly Shepherd, which I still hope,
 as well as often humbly breathe for on thy account,
 being well satisfied of thy sincere desires; which if properly retained,
 and carefully cherished on thy part, I cannot but comfortably hope,
 heavenly help will mercifully regard; so be it.
-Amen.`"
+Amen.
+
+--
 
 +++[+++In another letter to the same, dated the 27th of the tenth month, 1740,
 he has the following memorable expressions:]
+
+[.embedded-content-document.letter]
+--
 
 I have been and am, through merciful favour preserved in usual health,
 and attended with best peace and comfort in our heavenly Father`'s goodness;
@@ -7272,6 +7514,8 @@ I salute thee with this breathing fresh upon my soul for thee,
 which hath been often with me,
 when by my long silence I have seemed almost to have forgotten thee.
 
+--
+
 +++[+++In the latter part of the year 1741,
 he visited Friends in some of the northern counties,
 travelling through the bishopric of Durham, and some parts of Northumberland,
@@ -7279,7 +7523,10 @@ from thence into Cumberland and Westmoreland; of which journey,
 all the account that remains, is contained in the following letter to a relation,
 written soon after his return, dated the 6th of the ninth month, 1741, viz.:]
 
-"`I cannot lose hope, nor almost full expectation, but that the divine power,
+[.embedded-content-document.letter]
+--
+
+I cannot lose hope, nor almost full expectation, but that the divine power,
 which can do all things, will one time or other mercifully help thee,
 if thou labourest in watchfulness and patience
 to look to him for salvation in true diligence,
@@ -7309,7 +7556,9 @@ to as much humbling gladness in the Lord, as I have almost ever known;
 though we met with several afflicting cases, besides the common heaviness,
 or want of proper hunger, which is more or less almost a general hurt.
 I said we, above,
-for I had the opportunity of the good company of Michael Lightfoot most of the time.`"
+for I had the opportunity of the good company of Michael Lightfoot most of the time.
+
+--
 
 +++[+++He continued at home during the winter, except attending the quarterly meeting at York;
 but travelling now began to be very difficult and painful to him,
@@ -7337,7 +7586,10 @@ he intended to have communicated to a Friend a more particular account of this v
 and of the state of Friends in that kingdom, but was prevented by indisposition,
 and other intervening services.
 The following passages from some letters written in this journey,
-will not perhaps be altogether unacceptable.
+will not perhaps be altogether unacceptable.]
+
+[.embedded-content-document.letter]
+--
 
 My hands and thoughts +++[+++says he in a letter to a Friend soon after he set out]
 have been busy in hastening to discharge myself of this debt to Ireland,
@@ -7353,7 +7605,13 @@ duly attending for fresh help that we may be what we are, through the grace from
 I believe we shall not be neglected or forgotten
 of the all knowing Fountain of every good thing.
 
+--
+
+[.offset]
 +++[+++In another letter from Dublin, to one of his sons.]
+
+[.embedded-content-document.letter]
+--
 
 Through merciful support, I am as well I think, as when we parted,
 though as I ride in pain, more or less, it occasions some fear,
@@ -7367,9 +7625,14 @@ but was forced to stay three days at Chester for wind; I had a good and easy pas
 and came hither on third-day morning, to part of Friends meeting,
 to my own and some others comfort.
 
+--
+
 +++[+++He stayed here till after first-day, and then went towards the southern parts,
 and to Cork in about three weeks; and so to Mountrath,
 from whence he wrote the following account.]
+
+[.embedded-content-document.letter]
+--
 
 I have kept closely stirring along and much employed to answer the end of my coming,
 as diligently and honestly as I know how;
@@ -7386,6 +7649,8 @@ and even that the dead may hear, and be made to live.
 I have been round the southern parts, and am now near the middle, going northward;
 and hope to be at Dublin at the half year`'s meeting,
 and have some expectation that I may be clear by that time to return.
+
+--
 
 +++[+++Soon after he got home, he wrote to the same person,
 that "`he was thankfully easy for gracious help, through his late journey,
@@ -7424,6 +7689,9 @@ About this time writing to a Friend, he says,
 yet he was not forsaken of the everlasting Helper.`"
 And soon after to the same, in the following lively and affecting manner, viz.:
 
+[.embedded-content-document.letter]
+--
+
 The Christian affection accompanying thine,
 affords me more comfortable satisfaction than I can describe,
 or thou canst well conceive;
@@ -7435,6 +7703,8 @@ for help and preservation in his way, through what is yet before us here.
 In a renewed consideration, and a degree of the sense of his manifold mercies,
 and fatherly regard and succour hitherto, my heart worshippeth his name,
 and greets thee in love and living well wishing.
+
+--
 
 +++[+++During this confinement at home, pursuant to a secret inclination of his own,
 strengthened by the request of his children and divers Friends,
@@ -7450,7 +7720,10 @@ in a letter written soon after; part of which it may not be improper here to ins
 as it is another indication of his deep gratitude to heaven, and the holy awe,
 which accompanied him in all things.]
 
-Thine, says he, was very acceptable,
+[.embedded-content-document.letter]
+--
+
+Thine, +++[+++says he,] was very acceptable,
 being accompanied with a relish of religious as well as natural love and nearness,
 which both comforts at present,
 and increaseth reverent trust in and regard to the
@@ -7462,6 +7735,8 @@ through time, and his glorious name may be renowned here and forever.
 Bear with me, dear son, in thus reaching towards thee in the living sense of his mercy;
 the staying comfort whereof is highly worthy of our secret notice,
 and sometimes our solid commemoration.
+
+--
 
 +++[+++In the spring of 1744, he found himself engaged, though very weak in body,
 to see Friends once more at their yearly meeting in London,
@@ -7532,6 +7807,9 @@ I may be mistaken, as my recovery is so slow,
 that in a week it is scarcely advanced perceptibly.`"
 And then concludes:]
 
+[.embedded-content-document.letter]
+--
+
 ...as I have no dependence on human assistance but from thee,
 nor any correspondence which affords me like comfort and satisfaction,
 I must beg thy frequent remembrance,
@@ -7543,7 +7821,10 @@ by many a gracious spring of living goodness from the Almighty helper of his peo
 who have trusted in him and feared him.
 Thus, dear son, farewell, farewell, saith thy affectionate father.
 
+[.signed-section-signature]
 J+++.+++ F.
+
+--
 
 +++[+++With these affecting expressions ended a correspondence,
 which afforded the strongest satisfaction that any thing in this life could yield.
@@ -7560,6 +7841,9 @@ though gilded pursuits which the spirit of deception throws in the way of mortal
 What happened in this interval was communicated in a letter, soon after his decease,
 by a person who attended him night and day, with the diligence that filial duty,
 and a just sense of his worth required, viz.:]
+
+[.embedded-content-document.letter]
+--
 
 From the time he left Bath he felt himself gradually declining,
 and was very much indisposed when he got home.
@@ -7604,8 +7888,11 @@ several lively testimonies being delivered, both on Truth`'s account,
 and to the memory of so worthy a man, who is gone from a series of pain and exercises,
 to receive the reward of his faithful labours.
 
+[.signed-section-signature]
 A+++.+++ F.^
 footnote:[Ann Fothergill, his daughter.]
+
+--
 
 +++[+++Though the following letters, are without date or superscription,
 yet as they may possibly fall into hands to whom they may be of use,
@@ -7617,6 +7904,10 @@ The first seems to be written to the Friends of a particular county,
 but as no address remains, it is left to those who are concerned to profit by it.
 It seems by the hand not to have been written long before his decease.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 Being often brought under some nearly affecting considerations,
@@ -7664,10 +7955,18 @@ which my soul reverently and fervently begs before the Lord our God,
 may become your joyful experience in an abundant manner; so will you farewell indeed,
 to the glory and honour of the divine name, which is worthy, worthy, forevermore.
 
+[.signed-section-signature]
 John Fothergill
 
+--
+
+[.offset]
 +++[+++A copy of a letter to a Friend in the ministry.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend,
 
 Some days ago, as I was riding alone, thou wast suddenly brought to my remembrance,
@@ -7703,7 +8002,10 @@ I know it is also rather profitable,
 to be moderately concerned about some temporal affairs, with inward fear,
 till we become assured of a distinct requiring to leave it.
 
+[.signed-section-signature]
 John Fothergill
+
+--
 
 +++[+++We shall conclude this account of the labours
 and services of our dear and honoured father,
@@ -7711,6 +8013,12 @@ with some testimonies concerning him.
 The first is taken from the account given to the quarterly meeting of York,
 by the monthly meetings of Richmond and Knaresborough, to which he successively belonged;
 the purport whereof is as follows:]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Testimony of Richmond and Knaresborough Meetings
 
 That though he was born of religious parents, and religiously educated,
 yet he was made sensible in his early years, that neither tradition, outward regularity,
@@ -7781,11 +8089,17 @@ He departed this life at Knaresborough in Yorkshire, the 13th of the Eleventh mo
 at Scotton near the said town, the 15th of the same month, aged sixty-nine years,
 having been a minister near fifty years.
 
+--
+
 +++[+++The close and affectionate friendship that had subsisted
 between him and our worthy friend John Hayward,
 during great part of their lives,
 has engaged the latter to give the following testimony to his memory.]
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 A Testimony concerning our dear friend John Fothergill.
 
 As the memory of good men should live,
@@ -7805,7 +8119,10 @@ zealous in maintaining the Christian testimonies professed by us,
 and industrious in his outward affairs, when not engaged in the service of the gospel:
 and I doubt not in the least, but that he is gone to everlasting rest.
 
+[.signed-section-signature]
 John Hayward.
+
+--
 
 +++[+++The perusal of the preceding sheets will doubtless inform the intelligent reader,
 what manner of person he was, whose memoirs they contain,
@@ -7813,6 +8130,10 @@ and render any additional testimony the less needful.
 His children, nevertheless, find themselves engaged,
 in justice to the memory of so worthy a parent to mention:]
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Testimony of the Children of John Fothergill Concerning Their Father
 
 That it is well remembered by several of them,
@@ -7913,12 +8234,12 @@ Thus conducted, in every station of life, he became honourable amongst men,
 and greatly esteemed by those of superior rank who knew him;
 being adorned with that dignity which Truth confers on its faithful followers.
 One of his acquaintance, a worthy magistrate, in a letter to one of his sons,
-soon after his decease, thus speaks of him: '`I must own my weakness;
+soon after his decease, thus speaks of him: "`I must own my weakness;
 I could not refrain paying some tears to the memory of my departed friend:
 at first I thought it a mournful, but after a short recollection, a pleasing tribute;
 for though death be the wages of sin, yet it opens to the reward of a well spent life.
 I therefore ought not to mourn, but to rejoice at his receiving his reward,
-that inexpressibly happy, and eternal reward prepared for him.`'
+that inexpressibly happy, and eternal reward prepared for him.`"
 
 To conclude:
 The mighty God who visited him in his youth with the discovery of his saving power,
@@ -7934,15 +8255,24 @@ gathered to the assembly of the just, to continue that glorious employ,
 which was his principal delight on earth, to worship,
 adore and magnify the Lord God and the Lamb, forever.
 
+--
+
 +++[+++It does not appear at what time the following paper was written;
 or whether it was ever copied and given abroad for general service.
 It appears by the hand to have been done pretty early in his life,
 and most probably was the first he wrote; yet as it contains divers weighty advices,
 it may still have its service, and is therefore added to the rest, viz:]
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 A Faithful Warning, sounded in the borders of the Camp of Israel.
 
-Reader,--The cause of my setting pen to paper at this time,
+[.salutation]
+Reader,
+
+The cause of my setting pen to paper at this time,
 is a desire to discharge my duty to God,
 and to clear my conscience towards my brethren in the creation,
 in order to stir them up to circumspection in
@@ -7958,6 +8288,7 @@ Therefore, sober reader, that thou mayest take the wise man`'s counsel,
 which is to acquaint thyself with God and be at peace, is my hearty and earnest desire,
 who am a lover of thy soul, and a friend according to my power to all mankind.
 
+[.signed-section-signature]
 J+++.+++ F.
 
 Dear Friends and brethren in the holy seed, in which our relation stands,
@@ -8033,15 +8364,15 @@ and has many to add to her, who are yet unwilling to come in;
 and for whose sake the Lord has long spared this nation,
 and hovered over it with an eye for good.
 
-And now to yon who make profession of this pure holy principle of Truth,
+And now to you who make profession of this pure holy principle of Truth,
 which God in his great love hath revealed in you, and convinced you of,
 so that you have professed to believe, that as it is obeyed and followed,
 it will lead to God, and yet do not show your faith by your works,
 nor bring forth fruits of righteousness, which are always the fruits of true faith;
 I am earnest with you to consider weightily, wherein true religion consists.
 Is it in a bare profession of the Truth; a giving up the name to God?
-Or is it in well doing]
-In obeying this pure principle of Truth we profess, so as to come to be saved by it,
+Or is it in well doing,
+in obeying this pure principle of Truth we profess, so as to come to be saved by it,
 and redeemed out of the crooked ways, and by-paths of this sinful world?
 Remember Cain of old; he offered an offering, as well as Abel;
 but Abel`'s offering was accepted--Cain`'s rejected.
@@ -8142,7 +8473,7 @@ through the operation of the power of Truth, while it is called today.
 This my soul and spirit deeply travail for,
 my heart being filled with true love and good-will unto all men,
 desiring nothing in this my present exercise, but that God`'s will may be done by me;
-and that his love may be embraced by ail, in laying things rightly to heart,
+and that his love may be embraced by all, in laying things rightly to heart,
 and turning from the spirit of this entangling world, which is in danger to hinder you,
 if tampered with, from coming up in that zeal and courage, and boldness,
 that God would furnish you with, as you give up freely to his work.
@@ -8180,18 +8511,26 @@ which that it may be,
 the souls of a little remnant desire more earnestly
 than to see the increase of any visible thing.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A tender visitation of endeared love, flowing from the divine Fountain,
 towards the whole flock and family of God, wherever scattered.
 From one who is a lover of souls,
-and a travailer for the welfare of Zion.--John Fothergill
+and a travailer for the welfare of Zion.
 
+[.signed-section-signature]
+John Fothergill
+
+[quote.scripture, , Jer. 4:19]
+____
 My bowels, my bowels; I am pained at my very heart; my heart maketh a noise within me;
 I cannot hold my peace, because thou hast heard, oh my soul, the sound of the trumpet,
 the alarm of war.
---Jer. 4:19.
+____
 
 Upon the 24th day of the eleventh month, 1699,
 as I was walking solitarily to our weekday meeting, and pondering in my spirit,
@@ -8203,6 +8542,7 @@ I do hereby salute you all who in any measure are come to taste of the good word
 which is even so near as in the mouth and in the heart,
 and of the powers of the world to come.
 
+[.salutation]
 Dear Friends and brethren,
 
 Dwell, I beseech you,
@@ -8390,7 +8730,7 @@ Let me say unto all who make mention of the name of the Lord, depart ye from ini
 and in the words of our Lord, speaking to the Jews that had believed on him,
 if ye abide in my word, then are ye my disciples indeed; and ye shall know the Truth,
 and the Truth shall set you free.
-They then alledged, they were Abraham`'s children, and consequently free:
+They then alleged, they were Abraham`'s children, and consequently free:
 but our Saviour replied, that if they were Abraham`'s children,
 they would do the works of Abraham; but he tells them plainly,
 they were of their father the devil, and his lusts would they do.
@@ -8576,7 +8916,10 @@ with the peace of his Holy Spirit, upon his whole flock and family.
 To God the Father, through Jesus Christ, be everlasting glory, honour and praise,
 who is worthy, worthy, now and forever.
 
+[.signed-section-signature]
 John Fothergill.
 
-Wensleydale, in Yorkshire, the 21st of the Twelfth month.
-1699.
+[.signed-section-context-close]
+Wensleydale, in Yorkshire, the 21st of the Twelfth month. 1699.
+
+--
