@@ -3002,6 +3002,8 @@ John Fothergill
 Salem, in West Jersey, the 1st of the Twelfth month, 1721
 
 [.postscript]
+====
+
 P+++.+++ S. I may further acquaint you, that through divine goodness and mercy,
 my health and strength are every way maintained and renewed,
 to mine and many Friends admiration, considering my diligence and the depth of labour:
@@ -3014,6 +3016,8 @@ We get forward pretty well, though not very speedily,
 but my hopes are renewed that I may yet live to see you again in the Lord`'s time,
 unto whose hand I am freely resigned, having my evidence, or confirmations,
 through divine help, that it is well I am here.
+
+====
 
 --
 
@@ -5336,7 +5340,11 @@ I am thy loving friend and cousin,
 John Fothergill.
 
 [.postscript]
+====
+
 P+++.+++ S. Thou mayest let Friends see the few lines enclosed, viz:
+
+====
 
 --
 
@@ -6973,6 +6981,8 @@ I am your true friend, and an earnest seeker of your present and eternal good.
 John Fothergill.
 
 [.postscript]
+====
+
 P+++.+++ S. If I have been very pressing and earnest with you,
 and not without danger of offending some, yet know ye,
 it is from a clear view that the Lord of heaven and earth,
@@ -6997,6 +7007,8 @@ will be clear,
 and have comfort in themselves from him whose ear grows
 not heavy that it cannot hear in any land or age;
 glory and thanksgiving be to his name forever and ever.
+
+====
 
 [.signed-section-context-close]
 Barbados, the 23rd of the Twelfth month, 1737
